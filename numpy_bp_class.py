@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #-*- coding: utf-8
-__author__ = 'livvddcc@gmail.com'
+
 
 import numpy as np
 
