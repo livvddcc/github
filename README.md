@@ -1,2 +1,2 @@
 # numpy_back_propagation
-# back propagation implemented with numpy
+## back propagation implemented with numpy
